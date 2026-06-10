@@ -51,9 +51,11 @@ Text. Version-controlled. PR-reviewed. Five-person team. No binary assets.
 - Body explains the **why**, not the **what** — the diff already shows the what.
 - No force-push to `main`. No `--no-verify`.
 
-## Issues
+## Issues + action items board
 
-File from the *New issue* page. Three templates (so far, we can add more):
+The team's open action items live on the [**Zero to Hero — Action Items board**](https://github.com/users/itsmunishbhardwaj/projects/1). 34 issues, fields for Owner / Workstream / Phase / Deadline, status of Todo / In Progress / Blocked / Done. Filter by your name to see your queue. Drag your card when state changes.
+
+File new things from the *New issue* page. Templates:
 
 - **Scene idea** — pitch a scene, sequence, or moment for the film.
 - **Interview lead** — propose a subject to interview.
