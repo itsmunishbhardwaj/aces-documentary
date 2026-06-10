@@ -1,0 +1,51 @@
+name: Interview lead
+description: Propose a subject to interview (student, mentor, expert, family).
+title: "[Interview] "
+labels: ["interview-lead"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: dropdown
+    id: role
+    attributes:
+      label: Role in the story
+      options:
+        - Student (cohort)
+        - Mentor / instructor
+        - Industry expert
+        - Family / support network
+        - Skeptic / outside voice
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this person, why now
+      description: What do they unlock that no one else does?
+    validations:
+      required: true
+  - type: textarea
+    id: questions
+    attributes:
+      label: Draft questions or threads to pull on
+  - type: input
+    id: contact
+    attributes:
+      label: How to reach them
+      placeholder: email / intro path / who can introduce
+  - type: dropdown
+    id: status
+    attributes:
+      label: Status
+      options:
+        - Idea only
+        - Reaching out
+        - Confirmed
+        - Scheduled
+        - Done
+      default: 0

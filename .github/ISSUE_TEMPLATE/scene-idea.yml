@@ -1,0 +1,41 @@
+name: Scene idea
+description: Pitch a scene, sequence, or moment for the film.
+title: "[Scene] "
+labels: ["scene-idea", "story"]
+body:
+  - type: textarea
+    id: pitch
+    attributes:
+      label: The scene in one line
+      placeholder: e.g. Week 3 — the moment a student's first agent actually works.
+    validations:
+      required: true
+  - type: dropdown
+    id: act
+    attributes:
+      label: Where in the film?
+      options:
+        - Act 1 — setup / cohort begins
+        - Act 2A — the grind
+        - Act 2B — breakthroughs & setbacks
+        - Act 3 — demo day / aftermath
+        - Unsure
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this matters to the story
+      description: What thread, character arc, or theme does it serve?
+    validations:
+      required: true
+  - type: textarea
+    id: capture
+    attributes:
+      label: What do we need to capture?
+      description: People, location, B-roll, interview questions, timing.
+  - type: input
+    id: deadline
+    attributes:
+      label: Latest date this can be shot
+      placeholder: YYYY-MM-DD or "evergreen"
