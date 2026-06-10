@@ -1,0 +1,38 @@
+name: Followup / action item
+description: Something the team needs to do — paperwork, capture, edit note, distribution task.
+title: "[Followup] "
+labels: ["followup"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Production (call sheet, release, schedule)
+        - Story (script, beat, transcript)
+        - Post (edit note, music, color, audio)
+        - Distribution (festival, press, release)
+        - Admin (legal, finance, comms)
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What needs to happen
+    validations:
+      required: true
+  - type: input
+    id: owner
+    attributes:
+      label: Owner
+      placeholder: GitHub handle or name
+  - type: input
+    id: due
+    attributes:
+      label: Due
+      placeholder: YYYY-MM-DD
+  - type: textarea
+    id: context
+    attributes:
+      label: Context / links
+      description: Related issues, PRs, docs, scenes, or interviews.

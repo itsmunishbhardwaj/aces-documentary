@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Production roles & conventions
+    url: https://github.com/itsmunishbhardwaj/aces-documentary/blob/main/meta/roles.md
+    about: Who does what on the team — check before filing.
