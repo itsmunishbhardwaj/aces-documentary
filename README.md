@@ -19,15 +19,13 @@ Text. Version-controlled. PR-reviewed. Five-person team. No binary assets.
 | `story/` | Story bible, character arcs, threads, beat sheets |
 | `distribution/` | Festival strategy, press, release planning |
 | `meta/` | How we work — roles, conventions, decisions |
-| `.github/ISSUE_TEMPLATE/` | Scene idea / Interview lead / Followup forms |
 
 ## What this repo IS NOT
 
 - **Not a footage store.** No `.mp4`, `.mov`, `.wav`, `.psd`, `.prproj`, `.aep`. The `.gitignore` blocks them. → **Drive / LucidLink**.
 - **Not a footage-review tool.** No timecoded comments here. → **Frame.io**.
-- **Not a chat app.** Discussion happens in issues and PR comments, not commit messages. → **WhatsApp** for urgent only.
-- **Not a real-time editor.** No live cursors. If two people need to write together right now, do it elsewhere and PR the result back here.
-- **Not a backup.** Don't put one-of-a-kind originals here. Anything irreplaceable belongs in Drive/LucidLink with a backup policy.
+- **Not a chat app.** Discussion happens in issues and PR comments, not commit messages. → **WhatsApp** for daily comm.
+- **Not a live multi-user editor**: Use google docs on docs multiple people want to work actively on. Commit the final **draft** here.
 
 ---
 
@@ -36,25 +34,10 @@ Text. Version-controlled. PR-reviewed. Five-person team. No binary assets.
 | Tool | Use for | Don't use for |
 |---|---|---|
 | **GitHub** (this repo) | Text artifacts. Decisions of record. Async status. Structured issues. | Footage, raw audio, real-time chat. |
-| **Google Drive / LucidLink** | Raw footage, audio masters, signed releases, contracts, shareable PDFs. | Anything that benefits from diff + history. |
-| **Frame.io** | Cut review. Timecoded notes. Editor ↔ director feedback. | Long-form written discussion. |
-| **WhatsApp** | Urgent decisions only. ≤ 5 messages per thread. | Anything you'd want findable in 3 months. |
-| **Zoom** | Bi-weekly 30-min team check-in (Munish chairs). Bilateral if a WhatsApp thread exceeds 5 messages. | Routine status — that goes in the Friday README update. |
-
-**Rule of thumb:** if you want it findable, decided, or attributable later, it lives in this repo. If it's heavy bytes, it lives in Drive/LucidLink or Frame.io. If it's right-now-or-never, WhatsApp.
-
----
-
-## Cadence
-
-Pulled from the v3 deck (`playbook/zero-to-hero-deck-2025-06-10.pptx`), Slide 5.
-
-- **Every Friday** — each workstream owner posts a 3-line update to the repo:
-  - **STATUS:** On track / At risk / Blocked
-  - **THIS WEEK:** one sentence on what happened
-  - **NEXT WEEK:** one sentence on what's coming
-- **Bi-weekly, 30 min** — full-team Zoom. Munish chairs. Hard commitment — no skipping.
-- **As needed** — bilateral Zoom when a thread is going nowhere on WhatsApp.
+| **Google Drive / LucidLink** (TBD) | Raw footage, audio masters, signed releases, contracts, shareable PDFs. | Anything that benefits from diff + history. |
+| TBD | Cut review. Timecoded notes. Editor ↔ director feedback. | Long-form written discussion. |
+| **WhatsApp** | Primary Mode of Communication |
+| **Zoom** | Meetings, etc. |
 
 ---
 
@@ -68,7 +51,7 @@ Pulled from the v3 deck (`playbook/zero-to-hero-deck-2025-06-10.pptx`), Slide 5.
 
 ## Issues
 
-File from the *New issue* page. Three templates:
+File from the *New issue* page. Three templates (so far, we can add more):
 
 - **Scene idea** — pitch a scene, sequence, or moment for the film.
 - **Interview lead** — propose a subject to interview.
