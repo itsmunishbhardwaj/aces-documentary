@@ -11,9 +11,10 @@ Version control for the **text artifacts** of a feature documentary following a 
 
 Text. Version-controlled. PR-reviewed. Five-person team. No binary assets.
 
-| Folder | Contents |
+| File / Folder | Contents |
 |---|---|
-| `playbook/` | Production playbook — v2 long form + v3 simplified deck |
+| `STATUS.md` | **The team's living pulse.** Action items, decisions, blockers, RACI, meeting log. Read this if you read nothing else. |
+| `playbook/` | Production playbook — v2 long form + v3 simplified deck (pptx + pdf) |
 | `scripts/` | Treatments, outlines, voiceover drafts, scene scripts |
 | `interviews/transcripts/` | Interview transcripts (text only) |
 | `production/` | Call sheets, shot lists, releases, schedules, contact sheets |
@@ -68,8 +69,8 @@ See `meta/roles.md`. The v3.0 roles matrix is on Slide 4 of the deck.
 
 ## Status of the platform itself
 
-- Repo: **private** on GitHub.
-- Branch protection: deferred (free-tier private repos don't get it). Convention is enforced socially via the workflow above.
+- Repo: **public** on GitHub (temporary — will be privatised in ~1 week).
+- Branch protection: not yet applied. Available now (free on public repos) — pending decision.
 - Owners with push access: the 5-person team.
 
 *Last edited: 2025-06-10.*
