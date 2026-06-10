@@ -1,8 +1,9 @@
 # Zero to Hero · Idea to App — Repo
 
-Source-of-truth repository for the **text artifacts** of *Zero to Hero · Idea to App*, a feature documentary following a 6-month applied-AI cohort (30 students). Working title. Team of 5.
+Version control for the **text artifacts** of a feature documentary following a 6-month applied AI cohort (~34 students). Team of 5.
 
-> Read this page first. It tells you what this repo is, what it isn't, and where the rest of the work actually lives.
+> **Video, audio, and editorial project files do NOT live here.** See `.gitignore`.
+
 
 ---
 
