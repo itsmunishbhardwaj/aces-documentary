@@ -1,4 +1,4 @@
-# Zero to Hero · Idea to App — Repo
+# Aces Documentary
 
 Version control for the **text artifacts** of a feature documentary following a 6-month applied AI cohort (~34 students). Team of 5.
 
