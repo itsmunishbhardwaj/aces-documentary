@@ -1,8 +1,8 @@
 # ACES Documentary
 
-Version control for the **text artifacts** of a feature documentary following a 6-month applied AI cohort (30 students). Team of 5.
+Version control for the **text artifacts** of a feature documentary following a 6-month applied AI cohort (~34 students). Team of 5.
 
-> **Video, audio, and editorial project files do NOT live here.** Use Frame.io / LucidLink / Drive. See `.gitignore`.
+> **Video, audio, and editorial project files do NOT live here.** See `.gitignore`.
 
 ## What lives here
 
