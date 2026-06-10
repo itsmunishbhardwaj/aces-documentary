@@ -1,0 +1,61 @@
+# macOS
+.DS_Store
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Video / raw footage — NEVER commit. Use Frame.io / LucidLink / Drive.
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.m4v
+*.webm
+*.prores
+*.r3d
+*.braw
+
+# Audio masters
+*.wav
+*.aif
+*.aiff
+*.flac
+
+# Images — large/raw only. Lightweight PNG/JPG (storyboards, stills) are fine.
+*.psd
+*.psb
+*.tiff
+*.tif
+*.cr2
+*.cr3
+*.nef
+*.arw
+*.dng
+
+# Editorial project files (binary, merge-hostile)
+*.prproj
+*.aep
+*.fcpbundle
+*.fcpxml
+*.drp
+*.drt
+*.ardour
+*.als
+
+# Sessions / caches
+Adobe Premiere Pro Auto-Save/
+Media Cache/
+Media Cache Files/
+Proxies/
+CFA Files/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+secrets/
