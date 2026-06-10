@@ -3,6 +3,7 @@
 Version control for the **text artifacts** of a feature documentary following a 6-month applied AI cohort (~34 students). Team of 5.
 
 > **Video, audio, and editorial project files do NOT live here.** See `.gitignore`.
+> This repo is NOT the complete truth of the docu. It only serves as a primary source for version controlling of important playbooks and other text atrifacts
 
 
 ---
@@ -39,6 +40,7 @@ Text. Version-controlled. PR-reviewed. Five-person team. No binary assets.
 | TBD | Cut review. Timecoded notes. Editor ↔ director feedback. | Long-form written discussion. |
 | **WhatsApp** | Primary Mode of Communication |
 | **Zoom** | Meetings, etc. |
+| **Docs/PPTs** | Live multi user collaboration | Commit only final drafts |
 
 ---
 
