@@ -249,71 +249,30 @@ Stage 2 → Munish + Shefali apply rubric → shortlist 8–10 → deep question
 ---
 
 ## ACTION ITEMS BY OWNER
-*All items from both June 9 meetings. Tick when done. Hansh updates Gantt to match every Friday.*
 
-### 🟣 Shefali
+> **Source of truth: the [Zero to Hero — Action Items board](https://github.com/users/itsmunishbhardwaj/projects/1).** All 34 items live there as issues with Owner, Workstream, Phase, Deadline, Status fields. Update by editing the issue or dragging on the board — not by editing this section. The tables below are gone on purpose. The board replaces them.
 
-| # | Action | Deadline | Status |
-|---|---|---|---|
-| S1 | Finalise and send **Welcome Email** to all 30 — Munish to approve first | M1 Week 1 | ⬜ |
-| S2 | Send **Stage 1 Questionnaire** to all 30 — **must go out by Friday** | **Friday June 13** | ⬜ |
-| S3 | Send consent forms to 5 selected protagonists | M1 Week 2 | ⬜ |
-| S4 | Schedule protagonist onboarding session (group) | M1 Week 3 | ⬜ |
-| S5 | Build **rough calendar** — what needs to be completed by when | Next meeting | ⬜ |
-| S6 | Identify and begin mentoring PM replacement | M2 | ⬜ |
-| S7 | Begin outreach — Indian entertainment lawyer / advisor | M3+ | ⬜ |
-| S8 | Simplify playbook into deck | M1 | ✅ Done |
-| S9 | Create and distribute protagonist selection rubric | M1 Week 1 | ✅ Done |
+**How to use the board:**
 
-### 🟦 Munish
+- **Status:** Todo / In Progress / Blocked / Done. Drag your card when state changes.
+- **Owner:** filter the board by your name to see only your queue.
+- **Workstream / Phase / Deadline:** group, sort, or filter as needed.
+- **New action item?** Open an issue in this repo with the `action-item` label and add it to the project. Or use the **Followup** issue template.
 
-| # | Action | Deadline | Status |
-|---|---|---|---|
-| M1 | **Write documentary synopsis** — the North Star document | ASAP | ⬜ |
-| M2 | Review and approve Welcome Email before Shefali sends | M1 Week 1 | ⬜ |
-| M3 | Review and approve Questionnaire before Shefali sends | M1 Week 1 | ⬜ |
-| M4 | Review and approve Protagonist Zoom Interview Questions | M1 Week 4 | ⬜ |
-| M5 | Review questionnaire responses with Shefali — identify 5 protagonists | M1 Week 2 | ⬜ |
-| M6 | Draft protagonist story arc notes (informal) | M1 Week 3 | ⬜ |
-| M7 | Add Yash's suggestion to questionnaire — highlight individual contributions + value from cohort | M1 Week 1 | ⬜ |
-| M8 | Reach out to **Sagar Batra** for content/event marketing sub-role | M1 | ⬜ |
-| M9 | **Decide budget ownership** — Hansh, Shefali, or future Producer | M1 Week 4 | ⬜ |
-| M10 | Clarify Exec/Producer definition with Shefali | M2 | ⬜ |
-| M11 | Move all docs to **GitHub for version control** ASAP | M1 | ⬜ |
+### Code ↔ Issue map
 
-### 🟠 Eddie
+The codes (S1 … A5) preserve the original deck mapping so older references still resolve.
 
-| # | Action | Deadline | Status |
-|---|---|---|---|
-| E1 | Confirm **Om Maheshwari** — interest + availability for editing and/or music | M1 Week 1 | ⬜ |
-| E2 | Begin DOP calls with 5 selected protagonists | M1 Week 3 | ⬜ |
-| E3 | Co-lead Zoom interviews with Shefali (5 protagonists only) | M1 Week 4 | ⬜ |
+| Owner | Codes | Issues |
+|---|---|---|
+| 🟣 Shefali | S1–S9 | [#5](../../issues/5) [#6](../../issues/6) [#7](../../issues/7) [#8](../../issues/8) [#9](../../issues/9) [#10](../../issues/10) [#11](../../issues/11) [#12](../../issues/12) [#13](../../issues/13) |
+| 🟦 Munish | M1–M11 | [#14](../../issues/14) [#15](../../issues/15) [#16](../../issues/16) [#17](../../issues/17) [#18](../../issues/18) [#19](../../issues/19) [#20](../../issues/20) [#21](../../issues/21) [#22](../../issues/22) [#23](../../issues/23) [#24](../../issues/24) |
+| 🟠 Eddie | E1–E3 | [#25](../../issues/25) [#26](../../issues/26) [#27](../../issues/27) |
+| 🟩 Yash | Y1–Y3 | [#28](../../issues/28) [#29](../../issues/29) [#30](../../issues/30) |
+| 🟦 Hansh | H1–H3 | [#31](../../issues/31) [#32](../../issues/32) [#33](../../issues/33) |
+| 👥 All | A1–A5 | [#34](../../issues/34) [#35](../../issues/35) [#36](../../issues/36) [#37](../../issues/37) [#38](../../issues/38) |
 
-### 🟩 Yash
-
-| # | Action | Deadline | Status |
-|---|---|---|---|
-| Y1 | Take ownership of marketing/distribution role — begin planning | M1 | ⬜ |
-| Y2 | **Start documenting marketing ideas** — running brainstorm doc | M1 | ⬜ |
-| Y3 | Establish content approval cadence with Munish | M1 | ⬜ |
-
-### 🟦 Hansh
-
-| # | Action | Deadline | Status |
-|---|---|---|---|
-| H1 | Set up **GitHub repository** — folder structure, README, share with all 5 | M1 Week 1 | ⬜ |
-| H2 | **Start post-production ideas log** — running doc of ideas discussed in meetings | M1 | ⬜ |
-| H3 | Set up Google Drive folder structure (Ch. 11) | M1 | ⬜ |
-
-### 👥 All Team
-
-| # | Action | Deadline | Status |
-|---|---|---|---|
-| A1 | Review playbook · Accept roles · Flag any changes to Munish | M1 Week 1 | ⬜ |
-| A2 | Weekly async README update every Friday | Ongoing | ⬜ |
-| A3 | Diligent file naming and folder structure — follow Ch. 11 | Ongoing | ⬜ |
-| A4 | Never reference '100X' publicly — use 'learning community' | Ongoing | ⬜ |
-| A5 | Department leads: recruit sub-team members freely — just inform the team | M1 | ⬜ |
+**Already done:** S8 (playbook simplified into deck), S9 (selection rubric).
 
 ---
 
